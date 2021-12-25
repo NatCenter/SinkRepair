@@ -24,7 +24,6 @@ Delete
 }
 
 export const Requests = () => {
-    //will have to ask a question about why it is working on local not globe
     const requests = getRequests()
     
     let html = `
